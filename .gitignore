@@ -4,6 +4,5 @@ node_modules
 out
 build
 dist
-media/*
 yarn-error.log
 tsconfig.tsbuildinfo
