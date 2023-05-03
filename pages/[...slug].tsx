@@ -50,7 +50,7 @@ const Page: React.FC<Props> = (props) => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Payload
+          Anonymous
         </a>
       </footer>
     </main>
